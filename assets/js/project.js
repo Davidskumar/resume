@@ -14,7 +14,13 @@ const projects = [
     title: "Emi Character Animation",
     cardImage: "assets/images/project-page/EmiAnimationsDemo.gif",
     description: "3D Animations on Unity Engine.",
-    Githublink: "https://github.com/Davidskumar/2DCyberCity-BashByte",
+    Githublink: "https://github.com/Davidskumar/Emi_Animation",
+  },
+  {
+    title: "Colour Bump 3D",
+    cardImage: "assets/images/project-page/ColourBumpRep.gif",
+    description: "Mobile Device Hyper-casual Game of Colours",
+    Githublink: "https://github.com/Davidskumar/ColourBumpRep",
   },
   {
     title: "Music Recommendation Using Facial Expressions",
