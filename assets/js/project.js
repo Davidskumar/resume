@@ -24,7 +24,7 @@ const projects = [
   },
   {
     title: "Dodge Game",
-    cardImage: "https://github.com/Davidskumar/Dodge-Game-Dougetere-/blob/main/DemoImg/DemoDougeGame.gif",
+    cardImage: "assets/images/project-page/DemoDougeGame.gif",
     description: "Obstacle avoiding single-player Game.",
     Githublink: "https://github.com/Davidskumar/Dodge-Game-Dougetere-",
   },
