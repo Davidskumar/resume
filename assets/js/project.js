@@ -23,6 +23,12 @@ const projects = [
     Githublink: "https://github.com/Davidskumar/ColourBumpRep",
   },
   {
+    title: "Dodge Game",
+    cardImage: "https://github.com/Davidskumar/Dodge-Game-Dougetere-/blob/main/DemoImg/DemoDougeGame.gif",
+    description: "Obstacle avoiding single-player Game.",
+    Githublink: "https://github.com/Davidskumar/Dodge-Game-Dougetere-",
+  },
+  {
     title: "Music Recommendation Using Facial Expressions",
     cardImage: "assets/images/project-page/OutputScreen2.png",
     description: "An app that detects our emotions in real time",
