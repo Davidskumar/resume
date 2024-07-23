@@ -8,14 +8,14 @@ const exp = [
     cardImage: "assets/images/experience-page/aboutusicon.jpg",
     place: "Career Objective",
     time: "",
-    desp: "<br><p>I'm a passionate game developer with a B.Tech degree in Specialization in Artificial Intelligence, driven by a deep love for crafting immersive digital experiences.Adaptive, open-minded and detailed-oriented with exceptional organization and communication skills with the drive to exceed exceptions on every assignment.Looking forward to join a respectable organization</p><br><br><a data-v-4877bd6a href='https://drive.google.com/file/d/1YjbZjyYJW7xeKJEIujKsLGVE_k7W7GVD/view?usp=sharing' target='_blank'><img src='assets/images/experience-page/downloadico.jpg' height='20' width='20' alt='download img'/>Download as pdf mb <a>",
+    desp: "<br><p>I'm a passionate game developer with a B.Tech degree in Specialization in Artificial Intelligence, driven by a deep love for crafting immersive digital experiences.Adaptive, open-minded and detailed-oriented with exceptional organization and communication skills with the drive to exceed exceptions on every assignment.Looking forward to join a respectable organization</p><br><br><a data-v-4877bd6a href='https://drive.google.com/file/d/1B-tEPw-UtAMGHOjgPWOBjwHijsZmpdIC/view?usp=sharing' target='_blank'><img src='assets/images/experience-page/downloadico.jpg' height='20' width='20' alt='download img'/>Download as pdf mb <a>",
   },
   {
     title: "Skills",
     cardImage: "assets/images/experience-page/skillsicon.png",
     place: "Technical",
     time: "",
-    desp:"<ol><li>Python, C Programming, Java/JavaScript/JQuery, AngularJS, Node.js, C#, HTML/CSS </li><li>Data Analytics(ML & DL)</li><li>SQL, MongoDB, Firebase</li><li>Unity Engine, Unreal Engine, Blender, Adobe Photoshop, Zbrush, Android studio</li></ol>",
+    desp:"<ol><li>Python, C Programming, Java/JavaScript/JQuery, AngularJS, Node.js, C# and .NET, C++, HTML/CSS </li><li>Data Analytics(ML & DL)</li><li>SQL, MongoDB, Firebase</li><li>Unity Engine, Unreal Engine, Blender, Adobe Photoshop, Zbrush, Android studio</li></ol>",
   },
 ];
 
